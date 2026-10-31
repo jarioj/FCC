@@ -3,13 +3,14 @@ FreeCodeCamp Relational Database Projects
 This repository contains the projects completed as part of the FreeCodeCamp Relational Database certification. 
 Each folder contains the SQL scripts and documentation necessary to build and manage the specific database schemas required for the certification.
 Project Overview
-Folder Name	Project Description
-celestial-bodies-database	A database designed to store and query information about stars, planets, and other astronomical objects.
-cert-world-cup-database	A relational schema tracking World Cup statistics, including teams, matches, and player goals.
-number-guessing-game	A database-driven game implementation utilizing stored procedures and triggers to handle game logic.
-periodic_table	A structured database representing chemical elements, their properties, and their positions in the periodic table.
-salon-appointment-scheduler	A business management system for scheduling appointments, managing services, and tracking customers.
-student-database	A comprehensive school management system for tracking student enrollments, courses, and academic records.
+
+    celestial-bodies-database: A database designed to store and query information about stars, planets, and other astronomical objects.
+    cert-world-cup-database: A relational schema tracking World Cup statistics, including teams, matches, and player goals.
+    number-guessing-game: A database-driven game implementation utilizing stored procedures and triggers to handle game logic.
+    periodic_table: A structured database representing chemical elements, their properties, and their positions in the periodic table.
+    salon-appointment-scheduler: A business management system for scheduling appointments, managing services, and tracking customers.
+    student-database: A comprehensive school management system for tracking student enrollments, courses, and academic records.
+
 Tech Stack
 
     Language: SQL
